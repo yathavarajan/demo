@@ -1,0 +1,31 @@
+{
+    "users": [
+        {
+            "id": 1,
+            "username": "john_doe",
+            "first_name": "John",
+            "last_name": "Doe",
+            "email": "john.doe@example.com",
+            "age": 30,
+            "city": "New York"
+        },
+        {
+            "id": 2,
+            "username": "jane_smith",
+            "first_name": "Jane",
+            "last_name": "Smith",
+            "email": "jane.smith@example.com",
+            "age": 25,
+            "city": "Los Angeles"
+        },
+        {
+            "id": 3,
+            "username": "bob_jackson",
+            "first_name": "Bob",
+            "last_name": "Jackson",
+            "email": "bob.jackson@example.com",
+            "age": 35,
+            "city": "Chicago"
+        }
+    ]
+}
